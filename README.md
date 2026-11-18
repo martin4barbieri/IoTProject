@@ -1,2 +1,2 @@
 # IoTProject
-IoT university project repo 
+IoT university project repository done with Niccolò Mangialavori and Yazan Daseqi
